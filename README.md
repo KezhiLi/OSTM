@@ -1,7 +1,9 @@
 # OSTM
 Brief Matlab codes aiming at running simulations to compare different structured sensing matrices, including OSTM (orthogonal symmetrical Toeplize matrices). 
+
 1-d simulation: test1d_OSTM_official.m
-2-d simulation: test2d_OSTM_official.,
+
+2-d simulation: test2d_OSTM_official.m
 
 
 Please refer to paper: 
